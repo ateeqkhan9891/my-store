@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: / 
+Sitemap: https://ateeqkhan9891.github.io/my-store/sitemap.xml
